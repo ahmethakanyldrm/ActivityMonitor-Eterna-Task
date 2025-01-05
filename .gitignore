@@ -1,0 +1,73 @@
+.vs/
+
+## Bin ve Obj klasörleri
+bin/
+obj/
+
+## Kullanıcı ve yapılandırma dosyaları
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Paketler
+packages/
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Rider ve VSCode özel ayar dosyaları
+.idea/
+.vscode/
+
+## Loglar
+*.log
+Logs/
+debug.log
+npm-debug.log
+
+## Secrets
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.json
+
+## Docker dosyaları
+**/[Dd]ockerfile*
+**/[Dd]ockerfile*.*
+
+# Node.js için
+
+## Node paketleri
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+## Build çıktı dosyaları
+dist/
+build/
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+## IDE ve Editör dosyaları
+.vscode/
+.idea/
+*.iml
+
+## Log dosyaları
+logs/
+*.log
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+## Temporary dosyalar
+.tmp
+temp/

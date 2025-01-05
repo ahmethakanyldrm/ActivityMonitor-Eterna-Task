@@ -1,0 +1,13 @@
+{
+  "name": "process-monitor-server",
+  "version": "1.0.0",
+  "description": "Process monitoring WebSocket server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "process-monitor-server": "file:",
+    "ws": "^8.16.0"
+  }
+}
