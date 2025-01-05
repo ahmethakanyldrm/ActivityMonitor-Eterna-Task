@@ -104,14 +104,7 @@ dotnet run
 - İşlem bilgisi alınamadığında null değer döndürme
 - Log yazma hatalarını yakalama ve raporlama
 
-## Geliştirme Önerileri
 
-- Web arayüzü eklenmesi
-- Veritabanı entegrasyonu
-- İşlem filtreleme özellikleri
-- Gerçek zamanlı grafik ve istatistikler
-- Çoklu istemci desteği
-- İşlem kaynaklı uyarı sistemi
 
 ## Lisans
 
